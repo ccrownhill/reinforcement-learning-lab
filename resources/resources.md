@@ -1,0 +1,1 @@
+* [Sutton, Barto: Reinforcement Learning: An Introduction (300+ pages)](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf) (covering many topics including Markov Decision Processes, Dynamic Programming, etc.)
